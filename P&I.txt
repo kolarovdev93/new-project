@@ -1,0 +1,35 @@
+Propriedade das cores:
+
+HUE: Está é uma forma. É o que chamamos de cor.
+É a luz reflectida que nós vemos em nossos olhos e nomeamos como
+Azul, verde, amarelo, vermelho e por aí
+
+Quando se trabalha com design as primeiras propriedades de HUE são:
+Saturação valor HSV. ou Hue saturação luminosidade HSL.
+
+SATURAÇÃO
+É a intesidade da cor
+
+VALUE descreve a luz e a escuridão da cor
+
+
+TONAL RANGE
+
+
+A tonalidade de cinsa de negro ou branco
+
+ou todas tonalidades de cinsa entre branco e preto
+
+HSB-Bridgtness 
+
+CONTRAST
+
+É a diferença entre HUES SATURATIONS E VALUEs ou BRIDGTNESS
+
+FIND TO COLLOR PICKER AND ADOBE COLORS
+
+CREATE A MOOD BOARD TO COLOR
+paleta de cores
+
+Find to Color Palette generator
+Search to canvas.com
